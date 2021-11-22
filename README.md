@@ -20,6 +20,13 @@ Malzeme Listesi
 
 ![This is an image](https://user-images.githubusercontent.com/82800507/142842198-b6d7e5ca-9813-40e8-878a-5f6d7cce2ebd.png)
 
+# Mobil Uygulama
+FalconHeavy.aia dosyasını http://ai2.appinventor.mit.edu/ sitesine giriş yaparak import yapmanız gerekiyor. Aşağıdaki resimdeki işaretli bluetooth alıcı adreslerini kendi bluetoot alıcınızın adresiyle değiştirmeniz gerekiyor.
+
+![AppInvertorBlock](https://user-images.githubusercontent.com/82800507/142846018-7a36f829-304f-4300-ab4a-4172fa3c3c10.png)
+
+
+
 
 
 

@@ -17,9 +17,9 @@ void setup() {
 void loop() {
 
 
-      int r = 255, g = 60, b = 0;
-    //int r = 158, g = 8, b = 148;
-    //int r = 74, g = 150, b = 12;
+      int r = 255, g = 60, b = 0; // color 1
+    //int r = 158, g = 8, b = 148; // color 2
+    //int r = 74, g = 150, b = 12; // color 3
  
   for(int i=0; i<strip.numPixels(); i++) {
     int flicker = random(0,55);
